@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292374713765",
+    "project_id": "e-cycle-1ad6d",
+    "storage_bucket": "e-cycle-1ad6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292374713765:android:8b748413b95104cd9c444c",
+        "android_client_info": {
+          "package_name": "com.example.cycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292374713765-ckjjg0i7s0rdarnbq0346ccts28p2o4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhU75QJpk0SpqH0xW2iZVfbLqhShTPzP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292374713765-ckjjg0i7s0rdarnbq0346ccts28p2o4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
