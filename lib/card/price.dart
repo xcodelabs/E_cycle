@@ -28,6 +28,7 @@ class _pcardState extends State<pcard> {
               left: 16,
               top: 16,
               child: Column(
+                mainAxisAlignment: MainAxisAlignment.start,
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
